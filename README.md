@@ -46,8 +46,5 @@ Designed to teach the basics of PHP and inspired by the absolutely awesome http:
 7. [Changing Case](https://github.com/mtoigo/PHP-Koans/blob/master/Chapters/Chapter3.php#L104) - [[S](https://github.com/mtoigo/PHP-Koans/blob/solutions/Chapters/Chapter3.php#L123)]
 8. [Searching](https://github.com/mtoigo/PHP-Koans/blob/master/Chapters/Chapter3.php#L121) - [[S](https://github.com/mtoigo/PHP-Koans/blob/solutions/Chapters/Chapter3.php#L143)]
 
-#Status
-I'm building this out as a side project when I have time so the exercises don't cover all of the concepts they should yet, but everything in the master branch will always be complete. If you get stuck you can also check the [solutions branch](https://github.com/mtoigo/PHP-Koans/tree/solutions/Chapters) to see the pieces of missing code to fix the problems.
-
 #Feedback
 If you found these helpful, spot a bug, or want to help contribute please [contact me](http://www.matt-toigo.com/contact).
